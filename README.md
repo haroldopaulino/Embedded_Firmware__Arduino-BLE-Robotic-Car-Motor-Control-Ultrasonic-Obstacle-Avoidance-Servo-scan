@@ -263,23 +263,6 @@ The ultrasonic and servo logic adds real-world feedback, allowing the robot to m
 
 ---
 
-## Future Improvements
-
-Potential improvements for this project include:
-
-- Replace manual string parsing with a small command protocol state machine.
-- Add checksum or message validation for Bluetooth commands.
-- Add configurable command timeout duration.
-- Add acceleration ramping for smoother motor startup.
-- Add battery voltage monitoring.
-- Add telemetry reporting over Bluetooth.
-- Add calibration constants for motor balance.
-- Add a manual/autonomous mode switch command.
-- Add structured logging for debug builds.
-- Add a wiring diagram and schematic.
-
----
-
 ![PXL_20250519_012120126](https://github.com/user-attachments/assets/413c32bd-ec5d-49b7-880d-9b533699f507)
 ![PXL_20250519_012132951](https://github.com/user-attachments/assets/ef0ddb45-f065-4a41-b164-08b7ec630c0f)
 ![PXL_20250519_012153578](https://github.com/user-attachments/assets/cd424184-bfe8-4095-bf92-b64982fe9fe3)
